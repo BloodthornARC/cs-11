@@ -1,4 +1,4 @@
-index.html
+(index.html)
 
 <!DOCTYPE html>
 <html lang="ru">
@@ -47,7 +47,7 @@ index.html
 </body>
 </html> 
 
-styles.css
+(styles.css)
 
 body {
     font-family: Arial, sans-serif;
